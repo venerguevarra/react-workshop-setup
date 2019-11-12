@@ -1,3 +1,5 @@
+## Environment Setup Lesson 1
+
 @babel/preset-env - helps babel to convert ES6, ES7 and ES8 code to ES5.
 @babel/preset-react - transforms JSX to JavaScript.
 
