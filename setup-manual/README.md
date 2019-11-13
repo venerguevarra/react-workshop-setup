@@ -4,10 +4,12 @@
 @babel/preset-react - transforms JSX to JavaScript.
 
 Create directories with these commands:
+```
 $ mkdir setup-manual
 $ cd setup-manual
 $ mkdir public src
 $ touch public/index.html src/app.js
+```
 
 public/index.html
 ```
