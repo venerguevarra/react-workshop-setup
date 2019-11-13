@@ -177,4 +177,5 @@ import './styles/styles.css';
 const template = <p>Hello from react</p>;
 
 ReactDOM.render(template, document.getElementById('root'));
-```http://localhost:3000/
+```
+http://localhost:3000/
